@@ -10,7 +10,7 @@ if media >= 6:
     print("Parabéns! Você foi aprovado!")
 
 elif media >= 4:
-    print("Parabéns! Você está de recuperação!")
+    print("Você está de recuperação!")
 
 else:
-    print("Parabéns! Você foi reprovado!")
+    print("Você foi reprovado!")
